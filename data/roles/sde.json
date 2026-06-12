@@ -1,0 +1,9 @@
+{
+  "role": "SDE",
+  "topics": ["DSA", "System Design", "OOP", "OS", "DBMS", "Networking"],
+  "common_questions": [
+    "What is your most challenging project?",
+    "Explain a time you optimized a slow system.",
+    "How do you approach debugging a production issue?"
+  ]
+}   

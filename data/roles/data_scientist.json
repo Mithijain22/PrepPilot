@@ -1,0 +1,9 @@
+{
+  "role": "Data Scientist",
+  "topics": ["ML", "Statistics", "Deep Learning", "Feature Engineering", "Model Deployment"],
+  "common_questions": [
+    "Walk me through your end-to-end ML project.",
+    "How do you deploy a model to production?",
+    "What metrics do you use to evaluate a model?"
+  ]
+}

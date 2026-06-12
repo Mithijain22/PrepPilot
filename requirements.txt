@@ -1,0 +1,13 @@
+streamlit
+openai-whisper
+gtts
+langchain
+langchain-community
+transformers
+torch
+huggingface_hub
+sounddevice
+soundfile
+numpy
+python-dotenv
+pygame

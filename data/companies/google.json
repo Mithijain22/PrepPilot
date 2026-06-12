@@ -1,0 +1,36 @@
+{
+  "company": "Google",
+  "roles": {
+    "SDE": {
+      "easy": [
+        "Tell me about yourself and why Google?",
+        "What is OOP? Give a real example.",
+        "What is the difference between a list and a tuple?"
+      ],
+      "medium": [
+        "Explain how HashMap works internally.",
+        "What is the difference between process and thread?",
+        "Explain REST API and its principles."
+      ],
+      "hard": [
+        "Design a URL shortening service like bit.ly.",
+        "How would you build Google Search autocomplete?",
+        "Design a distributed rate limiter."
+      ]
+    },
+    "data_scientist": {
+      "easy": [
+        "What is overfitting and how do you prevent it?",
+        "Explain the difference between supervised and unsupervised learning."
+      ],
+      "medium": [
+        "Explain gradient descent and its variants.",
+        "What is the bias-variance tradeoff?"
+      ],
+      "hard": [
+        "Design an ML system for ad click prediction.",
+        "How would you build a recommendation system for YouTube?"
+      ]
+    }
+  }
+}

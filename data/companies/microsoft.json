@@ -1,0 +1,36 @@
+{
+  "company": "Microsoft",
+  "roles": {
+    "SDE": {
+      "easy": [
+        "Tell me about yourself and why Microsoft?",
+        "What is SOLID principle?",
+        "Explain polymorphism with an example."
+      ],
+      "medium": [
+        "What is the difference between SQL and NoSQL?",
+        "Explain event-driven architecture.",
+        "What is a deadlock and how do you prevent it?"
+      ],
+      "hard": [
+        "Design Microsoft Teams architecture.",
+        "How would you build a real-time collaborative document editor?",
+        "Design Azure's load balancer."
+      ]
+    },
+    "data_scientist": {
+      "easy": [
+        "What is the difference between classification and regression?",
+        "What is cross-validation?"
+      ],
+      "medium": [
+        "Explain how Random Forest works.",
+        "What is regularization? Explain L1 and L2."
+      ],
+      "hard": [
+        "Design a real-time anomaly detection system.",
+        "How would you build a language translation model?"
+      ]
+    }
+  }
+}

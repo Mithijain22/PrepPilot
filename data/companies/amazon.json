@@ -1,0 +1,36 @@
+{
+  "company": "Amazon",
+  "roles": {
+    "SDE": {
+      "easy": [
+        "Tell me about yourself and why Amazon?",
+        "What are Amazon's Leadership Principles?",
+        "Explain the concept of microservices."
+      ],
+      "medium": [
+        "Tell me about a time you handled a conflict at work.",
+        "What is CAP theorem?",
+        "How does AWS S3 store data internally?"
+      ],
+      "hard": [
+        "Design Amazon's shopping cart system.",
+        "How would you design a system to handle 1 million orders per day?",
+        "Design a notification service like Amazon SNS."
+      ]
+    },
+    "data_scientist": {
+      "easy": [
+        "What is a confusion matrix?",
+        "Explain precision and recall."
+      ],
+      "medium": [
+        "How would you handle imbalanced datasets?",
+        "Explain how XGBoost works."
+      ],
+      "hard": [
+        "Design Amazon's product recommendation engine.",
+        "How would you build a fraud detection system?"
+      ]
+    }
+  }
+}
