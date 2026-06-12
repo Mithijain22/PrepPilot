@@ -223,18 +223,4 @@ accelerate
 - [ ] Webcam eye contact analysis
 - [ ] Leaderboard / scoring history
 
----
 
-## 👨‍💻 Author
-
-**Hardik Jain**
-B.Tech CSE (AI & DS) — AKS University, Satna
-
-- GitHub: [@Hardik-8](https://github.com/Hardik-8/Hardik-8)
-- Email: jainhardik819492@gmail.com
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
